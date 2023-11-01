@@ -1,0 +1,15 @@
+{
+  "name": "games-api-nodejs",
+  "version": "1.0.0",
+  "description": "web server API for games api with node.js native",
+  "type" : "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Muhammad Daffa Rabbani",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
